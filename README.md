@@ -4,11 +4,6 @@
 
 Python wrapper for WhatsApp web made with selenium inspired by [PyWhatsApp](https://github.com/shauryauppal/PyWhatsapp)
 
-[![Downloads](https://pepy.tech/badge/alright)](https://pepy.tech/project/alright)
-[![Downloads](https://pepy.tech/badge/alright/month)](https://pepy.tech/project/alright)
-[![Downloads](https://pepy.tech/badge/alright/week)](https://pepy.tech/project/alright)
-
-[![Youtube demo](https://img.youtube.com/vi/yitQTt-NukM/0.jpg)](https://www.youtube.com/watch?v=yitQTt-NukM)
 
 ## Why alright ?
 
@@ -17,7 +12,6 @@ I was looking for a way to control and automate WhatsApp web with Python, I came
 - [pywhatkit](https://pypi.org/project/pywhatkit/)
 - [pywhatsapp](https://github.com/tax/pywhatsapp)
 - [PyWhatsapp](https://github.com/shauryauppal/PyWhatsapp)
-- [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper)
 - and many others
 
 So I tried [**pywhatkit**](https://pypi.org/project/pywhatkit/), a really cool one well crafted to be used by others but its implementations require you to open a new browser tab and scan QR code everytime you send a message no matter if its to the same person, which was deal breaker for using it.
@@ -295,19 +289,5 @@ If you're facing any issue or difficulty with the usage of the package just rais
 
 **Please, be as much comprehensive as possible!** Use as many screenshots and detailed description sets as possible; this will save us some time that we'd dedicate on asking you for "a more detailed descriptiton", and it'll make your request be solved faster.
 
-## Give it a star
-
-Was this useful to you ? Then give it a star so that more people can manke use of this.
-
-## Credits
-
-All the credits to:
-
-- [kalebu](https://github.com/kalebu)
-- [Eurico Nicacio](https://github.com/euriconicacio)
-- [Victor Daniel](https://github.com/vadolasi)
-- [Cornelius Mostert](https://github.com/theCJMan)
-- [shauryauppal](https://github.com/shauryauppal/)
-- and all the contributors
 
 </samp>
